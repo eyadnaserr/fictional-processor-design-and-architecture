@@ -1,0 +1,16 @@
+Team Number : Team 69
+
+Package : Package 4 Double Big Harvard combo large arithmetic shifts
+
+Ahmed Sherif said 52-8068 T-24
+
+Mahmoud mohammed mahmoud abou eleneen 52-5514 T-7
+
+Eyad Nasser saad 52-16834 T-15
+
+Youssef mohammed 49-6856 T-16
+
+Abdelrhman mohammed Ahmed Abouelkheir 52-5388 T-15
+
+
+Note : We are using library JavaSE-1.8 and it's already in the project zip file  
